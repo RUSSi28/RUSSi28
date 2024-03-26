@@ -1,18 +1,9 @@
-<p align="left">
-  <a href="https://github.com/Keichan15">
-    <img height="20" src="https://komarev.com/ghpvc/?username=RUSSi28" />
-  </a>
-  <a href="https://github.com/Keichan15">
-    <img height="20" src="https://img.shields.io/github/followers/RUSSi28?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/Keichan_15">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/RUSSi28/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Keichan_15">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/RUSSi28/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/keichan_15">
-    <img height="20" src="https://badgen.org/img/zenn/RUSSi28/articles?style=plastic" />
-  </a>
-</p>
+### Hello! I'm RUSSi👋
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40russi_silver)](https://twitter.com/)
+![Badge](https://cp-logo.vercel.app/atcoder/inukaki)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUSSi28&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUSSi28&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUSSi28&theme=default)
 
